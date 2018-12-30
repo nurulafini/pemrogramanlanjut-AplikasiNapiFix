@@ -1,0 +1,22 @@
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\bin\Debug\AplikasiNapi.exe.config
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\bin\Debug\AplikasiNapi.exe
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\bin\Debug\AplikasiNapi.pdb
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.csprojResolveAssemblyReference.cache
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.Properties.Resources.resources
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.View.FrmAplikasi.resources
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.csproj.GenerateResource.Cache
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.exe
+C:\Users\satri\Downloads\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.pdb
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.csprojAssemblyReference.cache
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.Properties.Resources.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.View.FrmNarapidana.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.View.FrmUtama.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.csproj.GenerateResource.cache
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.csproj.CoreCompileInputs.cache
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.exe
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.pdb
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\bin\Debug\AplikasiNapi.exe.config
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\bin\Debug\AplikasiNapi.exe
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\bin\Debug\AplikasiNapi.pdb
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.View.FrmTamu.resources
+D:\A\College\AMIKOM\SEMESTER I\PEMROGRAMAN LANJUT\FINAL PROJECT\pemrogramanlanjut-AplikasiNapi-master\pemrogramanlanjut-AplikasiNapi-master\AplikasiNapi\obj\Debug\AplikasiNapi.View.FrmPetugas.resources
